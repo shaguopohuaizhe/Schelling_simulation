@@ -12,7 +12,7 @@ To see help, use
   python schelling.py -h
 ```
 
-
+[![DOI](https://zenodo.org/badge/534102275.svg)](https://zenodo.org/badge/latestdoi/534102275)
 
 
 
