@@ -759,7 +759,7 @@ def main():
     #parser.add_argument("--stb", default=0.5, type=float, help='similarity_threshold of blue')
     #parser.add_argument("--stg", default=0.5, type=float, help='similarity_threshold of yellow')
     parser.add_argument("--init", default=1, type=int,
-                        help='initiation, 1 means random, 2 means uniform, 3 means segregated(10%), 4 means 1D(or 2D)/3D，5means segregated(30%)')
+                        help='initiation, 1 means random, 2 means uniform, 3 means segregated(10%%), 4 means 1D(or 2D)/3D，5means segregated(30%%)')
     parser.add_argument("--n", default=10000, type=int, help='n_iterations, -1 means final')
     parser.add_argument("--f", default=0, type=int, help='flag: 0 means only move to empty, 1 means can move to color')
     #parser.add_argument('--mp', default=[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0], nargs='+', type=float,
